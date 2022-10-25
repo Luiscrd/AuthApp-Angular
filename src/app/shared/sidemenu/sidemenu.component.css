@@ -1,0 +1,10 @@
+.list-group-item.active {
+  z-index: 2;
+  color: white;
+  background-color: #86055d !important;
+  border-color: #86055d !important;
+}
+
+li{
+  cursor: pointer;
+}
